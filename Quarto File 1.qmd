@@ -1,0 +1,21 @@
+---
+title: "Quarto File 1"
+author: "Luis, Jocelyn, and Sofia"
+date: 2025-01-07
+format: gfm
+editor: visual
+---
+
+# header 1 
+
+## header 2
+
+*Hello* **everyone** ***lol***.
+
+`10+20`\
+
+\
+\
+\
+\
+\
